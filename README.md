@@ -6,6 +6,7 @@ the files found in the documents folder.
 
 * [Source](https://github.com/venom889/COMP4109-SkipJackProject/tree/master/src)
 * [Documentation](https://github.com/venom889/COMP4109-SkipJackProject)
+* [Library Release](https://github.com/venom889/COMP4109-SkipJackProject/releases/tag/v1.0)
 
 
 ## Quick start
@@ -23,10 +24,8 @@ To run the demo application included:
 
 Add the following dependencies to your project:
 
-```
- import com.google.common.primitives.UnsignedLong;
- import com.comp4109.skipjack.blockcipher.*;
-```
+* [guava-18.0.jar](https://code.google.com/p/guava-libraries/)
+* [COMP4109-SkipjackLib-ver1.0.jar](https://github.com/venom889/COMP4109-SkipJackProject/releases/tag/v1.0)
 
 Add the example code below to your project. See the JUnit tests found in the tests folder if you need more examples.
 
