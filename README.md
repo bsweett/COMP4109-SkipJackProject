@@ -5,7 +5,7 @@ An implementation of the Skipjack block cipher with Output Feedback opertaion mo
 the files found in the documents folder. 
 
 * [Source](https://github.com/venom889/COMP4109-SkipJackProject/tree/master/src)
-* [Documentation](https://github.com/venom889/COMP4109-SkipJackProject)
+* [Documentation](https://github.com/venom889/COMP4109-SkipJackProject/tree/master/doc)
 * [Library Release](https://github.com/venom889/COMP4109-SkipJackProject/releases/tag/v1.0)
 
 
